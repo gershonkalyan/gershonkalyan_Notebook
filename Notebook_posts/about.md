@@ -26,7 +26,7 @@ https://gershonkalyan.github.io/gershonkalyan_Notebook/
 ### Professional Experience
 1988-2024: Chief agronomist ICL
 
-2017 | ***Recif at Home***   
+  
 	
 ### THESES, REPORTS AND PUBLICATIONS IN PREPARATION
 
@@ -41,9 +41,5 @@ https://gershonkalyan.github.io/gershonkalyan_Notebook/
 -
 
 ### SKILLS 
-- PADI Advanced Open Water SCUBA Diving
-- Permis Mer – Israel Boating License for Coastal Waters and international sailing yachts
-- Languages – hebrew(Native), English (Fluent oral and written),German
-- Software – R/Rstudio, , Microsoft Excel/Word/Powerpoint, Adobe Photoshop, GitHub
 
 
